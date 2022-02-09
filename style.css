@@ -23,3 +23,16 @@ h3 {
     text-align: center;
     font-size: 25px;
 }
+
+.active {
+    background-color: #FF0000;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px;
+}
